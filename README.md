@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Grindour56
-- 👀 I’m interested in drawing ,cooking ,gardening ,anime and reading
+- 👀 I’m interested in coding,cooking ,gardening ,anime and reading
 - 🌱 I’m currently learning Cs50x
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
